@@ -1,0 +1,2 @@
+# wsprocessador
+ rabbitmq

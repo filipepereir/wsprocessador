@@ -1,0 +1,10 @@
+com\mercado\ws\entity\dto\AtualizarStatusPedidoDTO.class
+com\mercado\ws\entity\dto\PedidoDTO.class
+com\mercado\ws\entity\enums\StatusPedido.class
+com\mercado\wsprocessador\consumer\QueueConsumer.class
+com\mercado\wsprocessador\exceptions\ErroEnviarMensagemFilaException.class
+com\mercado\ws\entity\Pedido.class
+com\mercado\wsprocessador\repository\PedidoRepository.class
+com\mercado\wsprocessador\WsprocessadorApplication.class
+com\mercado\wsprocessador\service\PedidoService.class
+com\mercado\wsprocessador\constants\FilaConstants.class

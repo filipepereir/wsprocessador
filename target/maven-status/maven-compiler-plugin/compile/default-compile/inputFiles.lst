@@ -1,0 +1,10 @@
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\ws\entity\Pedido.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\ws\entity\enums\StatusPedido.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\wsprocessador\consumer\QueueConsumer.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\ws\entity\dto\AtualizarStatusPedidoDTO.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\wsprocessador\service\PedidoService.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\ws\entity\dto\PedidoDTO.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\wsprocessador\exceptions\ErroEnviarMensagemFilaException.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\wsprocessador\constants\FilaConstants.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\wsprocessador\repository\PedidoRepository.java
+D:\workspace-mercado\wsprocessador\src\main\java\com\mercado\wsprocessador\WsprocessadorApplication.java
